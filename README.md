@@ -1,2 +1,2 @@
-# llm101
-Large Language Models 101
+# Large Language Models 101
+Welcome to Large Language Models 101. Throughout this guide, I'll share with you the insights and knowledge I've gained on my own journey learning about LLMs. It also provides a searchable and trackable database for LLM papers, courses, tutorials and frameworks.
