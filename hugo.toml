@@ -1,0 +1,9 @@
+ baseURL = 'https://bluexiii.github.io/llm101/'
+languageCode = 'zh-cn'
+title = 'LLM101：从零开始学习大型语言模型'
+theme = 'llm101-theme'
+
+[params]
+  description = "LLM101是一个全面的学习平台，帮助初学者从零开始掌握大型语言模型的核心概念、应用和最新研究进展。"
+  author = "LLM101 Team"
+  github = "https://github.com/llm101"
