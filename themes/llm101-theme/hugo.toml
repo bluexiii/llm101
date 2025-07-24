@@ -1,0 +1,15 @@
+name = "LLM101 Theme"
+license = "MIT"
+licenselink = "https://github.com/llm101/llm101-theme/blob/master/LICENSE"
+description = "A modern, responsive theme for LLM101 learning platform"
+homepage = "https://llm101.github.io/"
+tags = ["education", "llm", "ai", "machine-learning", "responsive", "modern"]
+features = ["education", "llm", "ai", "machine-learning", "responsive", "modern"]
+min_version = "0.146.0"
+
+[author]
+  name = "LLM101 Team"
+  homepage = "https://llm101.github.io/"
+
+[original]
+  repo = "https://github.com/llm101/llm101-theme"

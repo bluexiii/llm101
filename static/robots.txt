@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://llm101.github.io/sitemap.xml
+
+# Disallow admin areas
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all content
+Allow: /basics/
+Allow: /roadmap/
+Allow: /research/
+Allow: /resources/
+Allow: /about/ 

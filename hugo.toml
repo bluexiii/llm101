@@ -1,0 +1,46 @@
+baseURL = 'https://llm101.github.io/'
+languageCode = 'zh-cn'
+title = 'LLM101：从零开始学习大型语言模型'
+theme = 'llm101-theme'
+
+[params]
+  description = "LLM101是一个全面的学习平台，帮助初学者从零开始掌握大型语言模型的核心概念、应用和最新研究进展。"
+  author = "LLM101 Team"
+  github = "https://github.com/llm101"
+  
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "basics"
+    name = "基础知识"
+    url = "/basics/"
+    weight = 2
+  [[menu.main]]
+    identifier = "roadmap"
+    name = "学习路线图"
+    url = "/roadmap/"
+    weight = 3
+  [[menu.main]]
+    identifier = "research"
+    name = "最新研究"
+    url = "/research/"
+    weight = 4
+  [[menu.main]]
+    identifier = "resources"
+    name = "精选资源"
+    url = "/resources/"
+    weight = 5
+  [[menu.main]]
+    identifier = "about"
+    name = "关于我们"
+    url = "/about/"
+    weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
