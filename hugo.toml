@@ -1,4 +1,4 @@
-baseURL = 'https://llm101.github.io/'
+baseURL = 'https://bluexiii.github.io/llm101/'
 languageCode = 'zh-cn'
 title = 'LLM101：从零开始学习大型语言模型'
 theme = 'llm101-theme'
